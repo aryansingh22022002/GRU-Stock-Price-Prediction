@@ -1,1 +1,1 @@
-# GRU-Stock-Price-Prediction
+### The project aims to predict the next-day change in stock closing price (ΔClose) from historical prices and technical indicators, then reconstruct the next-day price by adding ΔClose to the latest closing price.
